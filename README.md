@@ -1,6 +1,6 @@
 # ⚡ Refund Runner
 
-> An AI agent that fights for your refunds. You describe what went wrong — it finds the bad charge in your PayPal activity, writes the dispute claim, and queues it. Money back, minus the phone call.
+> An AI agent that fights for your refunds. You describe what went wrong — it finds the bad charge in your PayPal activity, writes the dispute claim, and queues it. Money back, minus the phone calls.
 
 Built for the **PayPal AI Hackathon: Build What's Next with PayPal and AI** (Devpost, Nov 2026).
 
