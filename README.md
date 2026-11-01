@@ -4,7 +4,7 @@
 
 Built for the **PayPal AI Hackathon: Build What's Next with PayPal and AI** (Devpost, Nov 2026).
 
-## What it does
+## What it does!
 
 1. **You chat.** "I was charged twice by a store" or "the headphones never arrived."
 2. **The agent scans** your last 30 days of transactions (PayPal Transaction Search API; falls back to seeded demo data when sandbox is empty).
